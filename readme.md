@@ -6,4 +6,5 @@
 - ios
 - react-native
 - 面试
-etc
+- etc
+- 其实还应该学习c++啊混蛋
